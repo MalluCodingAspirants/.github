@@ -1,4 +1,4 @@
-# **Mallu Coding Aspirants**
+# **Mallu Coding Aspirants 🧑‍💻🌴**
 
 **A vibrant community for passionate Malayali tech enthusiasts**
 
