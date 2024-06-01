@@ -21,13 +21,13 @@ Welcome to Mallu Coding Aspirants, a collaborative hub for aspiring and experien
 
 We welcome coders who use a variety of programming languages. Here are some commonly used languages among our members:
 
-- [X] Python
-- [X] Java
-- [X] JavaScript
-- [X] C++
-- [X] C#
-- [X] PHP
-- [X] Go
+- [X] Python [![Python icon](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+- [X] Java [![Java icon](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+- [X] JavaScript [![JavaScript icon](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+- [X] C++ [![CPP icon](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+- [X] C# [![C Sharp icon](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+- [X] PHP [![PHP icon](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+- [X] Go [![Go icon](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 - And many more!
 
 If you're proficient in a different language, feel free to bring your expertise to the table.
